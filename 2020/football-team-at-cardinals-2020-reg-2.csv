@@ -1,0 +1,110 @@
+firstName,lastName,position,jerseyNumber,status,seasonId,id,gsisId,esbId,fullName,slug,gameTime
+Andy,Lee,P,04,,2020,32013030-2d30-3032-3238-32349b479eae,00-0022824,LEE008195,Arizona Cardinals,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+Larry,Fitzgerald,WR,11,STARTED,2020,32013030-2d30-3032-3239-323176c2a1fa,00-0022921,FIT437493,Arizona Cardinals,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+Corey,Peters,DT,98,STARTED,2020,32013030-2d30-3032-3736-383628cbcfd8,00-0027686,PET099667,Arizona Cardinals,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+Patrick,Peterson,DB,21,STARTED,2020,32013030-2d30-3032-3739-3433ed8bd872,00-0027943,PET415511,Arizona Cardinals,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+Aaron,Brewer,LS,46,,2020,32013030-2d30-3032-3839-3436d6117ece,00-0028946,BRE611741,Arizona Cardinals,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+J.R.,Sweezy,T,64,STARTED,2020,32013030-2d30-3032-3931-3436d573f04a,00-0029146,SWE678847,Arizona Cardinals,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+Kelvin,Beachum,G,68,STARTED,2020,32013030-2d30-3032-3933-3136fead0e09,00-0029316,BEA111513,Arizona Cardinals,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+Dre,Kirkpatrick,DB,20,STARTED,2020,32013030-2d30-3032-3935-3630505bc918,00-0029560,KIR621103,Arizona Cardinals,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+Chandler,Jones,OLB,55,STARTED,2020,32013030-2d30-3032-3935-383530790f3b,00-0029585,JON157557,Arizona Cardinals,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+Chris,Banjo,DB,31,STARTED,2020,32013030-2d30-3032-3937-34372ecaae05,00-0029747,BAN373418,Arizona Cardinals,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+DeAndre,Hopkins,WR,10,STARTED,2020,32013030-2d30-3033-3035-3634b926c47f,00-0030564,HOP161500,Arizona Cardinals,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+Justin,Pugh,T,67,STARTED,2020,32013030-2d30-3033-3035-383587ea2e70,00-0030585,PUG243645,Arizona Cardinals,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+Devon,Kennard,LB,42,STARTED,2020,32013030-2d30-3033-3132-34317c970654,00-0031241,KEN208338,Arizona Cardinals,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+Jordan,Phillips,DT,97,STARTED,2020,32013030-2d30-3033-3135-35374960b4f8,00-0031557,PHI386190,Arizona Cardinals,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+Maxx,Williams,TE,87,NOT_ACTIVE,2020,32013030-2d30-3033-3135-35387ca5d707,00-0031558,WIL436992,Arizona Cardinals,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+Brett,Hundley,QB,07,NOT_ACTIVE,2020,32013030-2d30-3033-3135-3839c2d37962,00-0031589,HUN005842,Arizona Cardinals,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+Curtis,Riley,CB,35,,2020,32013030-2d30-3033-3230-3432c076d7eb,00-0032042,RIL123071,Arizona Cardinals,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+Angelo,Blackson,DE,96,,2020,32013030-2d30-3033-3231-30371e1a0708,00-0032107,BLA326665,Arizona Cardinals,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+Jordan,Hicks,LB,58,STARTED,2020,32013030-2d30-3033-3231-32398091cea5,00-0032129,HIC516259,Arizona Cardinals,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+Max,Garcia,C,73,,2020,32013030-2d30-3033-3231-3332f008dd2c,00-0032132,GAR112389,Arizona Cardinals,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+D.J.,Humphries,T,74,STARTED,2020,32013030-2d30-3033-3232-32329f997f2b,00-0032222,HUM728022,Arizona Cardinals,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+De'Vondre,Campbell,LB,59,STARTED,2020,32013030-2d30-3033-3234-303177be18db,00-0032401,CAM227922,Arizona Cardinals,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+Justin,Murray,T,71,,2020,32013030-2d30-3033-3235-32389a9eb23e,00-0032528,MUR669780,Arizona Cardinals,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+Charles,Washington,S,28,,2020,32013030-2d30-3033-3235-3630aa61e789,00-0032560,WAS082938,Arizona Cardinals,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+D.J.,Foster,RB,37,,2020,32013030-2d30-3033-3235-37373604d8f6,00-0032577,FOS199981,Arizona Cardinals,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+Kevin,Peterson,CB,27,,2020,32013030-2d30-3033-3238-343896e8240f,00-0032848,PET345726,Arizona Cardinals,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+Kenyan,Drake,RB,41,STARTED,2020,32013030-2d30-3033-3331-31385a388006,00-0033118,DRA280410,Arizona Cardinals,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+Darrell,Daniels,TE,81,,2020,32013030-2d30-3033-3332-35381a061594,00-0033258,DAN527377,Arizona Cardinals,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+Tanner,Vallejo,LB,51,,2020,32013030-2d30-3033-3335-3830b9e893f8,00-0033580,VAL641832,Arizona Cardinals,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+Zane,Gonzalez,K,05,,2020,32013030-2d30-3033-3338-36325773133e,00-0033862,GON750924,Arizona Cardinals,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+Haason,Reddick,LB,43,,2020,32013030-2d30-3033-3338-37359341f3ba,00-0033875,RED324095,Arizona Cardinals,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+Budda,Baker,DB,32,STARTED,2020,32013030-2d30-3033-3338-39304db3d35f,00-0033890,BAK070449,Arizona Cardinals,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+Dan,Arnold,TE,85,,2020,32013030-2d30-3033-3430-31312b05efd2,00-0034011,ARN413883,Arizona Cardinals,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+Kylie,Fitts,LB,49,,2020,32013030-2d30-3033-3434-3034320ccc4e,00-0034404,FIT110458,Arizona Cardinals,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+Jordan,Thomas,TE,80,,2020,32013030-2d30-3033-3434-32305c9b663e,00-0034420,THO263261,Arizona Cardinals,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+Dennis,Gardeck,LB,45,,2020,32013030-2d30-3033-3434-373391964843,00-0034473,GAR121450,Arizona Cardinals,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+Trent,Sherfield,WR,16,,2020,32013030-2d30-3033-3434-3837ee6e1b2a,00-0034487,SHE566024,Arizona Cardinals,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+Ezekiel,Turner,LB,47,,2020,32013030-2d30-3033-3434-3930429fffae,00-0034490,TUR304695,Arizona Cardinals,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+Chase,Edmonds,RB,29,,2020,32013030-2d30-3033-3436-38318de68526,00-0034681,EDM181116,Arizona Cardinals,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+Christian,Kirk,WR,13,STARTED,2020,32013030-2d30-3033-3437-3735f6be6cbe,00-0034775,KIR257918,Arizona Cardinals,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+Mason,Cole,C,52,NOT_ACTIVE,2020,32013030-2d30-3033-3437-3835ea4665ec,00-0034785,COL151246,Arizona Cardinals,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+Kyler,Murray,QB,01,STARTED,2020,32013030-2d30-3033-3532-323871689b29,00-0035228,MUR670413,Arizona Cardinals,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+Byron,Murphy,DB,33,,2020,32013030-2d30-3033-3532-333639c8fb36,00-0035236,MUR405853,Arizona Cardinals,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+Zach,Allen,DE,94,STARTED,2020,32013030-2d30-3033-3532-34387aa62587,00-0035248,ALL656181,Arizona Cardinals,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+Joshua,Miles,T,66,NOT_ACTIVE,2020,32013030-2d30-3033-3533-3137c230fee5,00-0035317,MIL052714,Arizona Cardinals,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+Andy,Isabella,WR,17,,2020,32013030-2d30-3033-3535-3237a22ee4c7,00-0035527,ISA562722,Arizona Cardinals,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+Deionte,Thompson,DB,22,,2020,32013030-2d30-3033-3535-3332857770f5,00-0035532,THO480961,Arizona Cardinals,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+Lamont,Gaillard,G,53,,2020,32013030-2d30-3033-3535-33367b3fa121,00-0035536,GAI059631,Arizona Cardinals,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+Chris,Streveler,QB,15,,2020,32013030-2d30-3033-3537-353215293a03,00-0035752,STR329049,Arizona Cardinals,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+Isaiah,Simmons,LB,48,,2020,32013030-2d30-3033-3633-3536fdba12df,00-0036356,SIM182419,Arizona Cardinals,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+Josh,Jones,T,79,,2020,32013030-2d30-3033-3633-363320b3bdf2,00-0036363,JON506329,Arizona Cardinals,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+Leki,Fotu,NT,95,NOT_ACTIVE,2020,32013030-2d30-3033-3633-373122b8ee44,00-0036371,FOT415291,Arizona Cardinals,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+Rashard,Lawrence,NT,92,,2020,32013030-2d30-3033-3633-3733c75018b0,00-0036373,LAW494873,Arizona Cardinals,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+Eno,Benjamin,RB,26,NOT_ACTIVE,2020,32013030-2d30-3033-3633-38332c6244b5,00-0036383,BEN131505,Arizona Cardinals,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+Alex,Smith,QB,11,NOT_ACTIVE,2020,32013030-2d30-3032-3334-3336b638d37d,00-0023436,SMI031126,Washington Football Team,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+Thomas,Davis,OLB,58,,2020,32013030-2d30-3032-3334-343878a96a3b,00-0023448,DAV768681,Washington Football Team,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+Nick,Sundberg,LS,57,,2020,32013030-2d30-3032-3637-3134b4545845,00-0026714,SUN263361,Washington Football Team,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+Ryan,Kerrigan,DE,91,,2020,32013030-2d30-3032-3739-3534bcfdd687,00-0027954,KER630730,Washington Football Team,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+Dontrelle,Inman,WR,80,STARTED,2020,32013030-2d30-3032-3834-3131ecbba609,00-0028411,INM264861,Washington Football Team,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+Jon,Bostic,LB,53,STARTED,2020,32013030-2d30-3033-3030-3634ae6893cd,00-0030064,BOS528427,Washington Football Team,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+Dustin,Hopkins,K,03,,2020,32013030-2d30-3033-3030-39382742cd86,00-0030098,HOP165345,Washington Football Team,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+Tress,Way,P,05,,2020,32013030-2d30-3033-3031-3430b5e6e73a,00-0030140,WAY228645,Washington Football Team,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+Cornelius,Lucas,T,78,,2020,32013030-2d30-3033-3037-3235295e76a7,00-0030725,LUC054659,Washington Football Team,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+Logan,Thomas,TE,82,STARTED,2020,32013030-2d30-3033-3132-3630bcfffd57,00-0031260,THO296280,Washington Football Team,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+Kevin,Pierre-Louis,LB,54,STARTED,2020,32013030-2d30-3033-3133-3038db393235,00-0031308,PIE584019,Washington Football Team,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+Morgan,Moses,T,76,STARTED,2020,32013030-2d30-3033-3133-3330c6deaf71,00-0031330,MOS280929,Washington Football Team,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+Deshazor,Everett,S,22,,2020,32013030-2d30-3033-3138-34344b4501a5,00-0031844,EVE115531,Washington Football Team,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+Brandon,Scherff,G,75,STARTED,2020,32013030-2d30-3033-3230-3533a93ff23a,00-0032053,SCH135412,Washington Football Team,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+Ronald,Darby,CB,23,STARTED,2020,32013030-2d30-3033-3231-3935e97b369f,00-0032195,DAR187187,Washington Football Team,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+Landon,Collins,S,26,STARTED,2020,32013030-2d30-3033-3232-3632b96a69a3,00-0032262,COL624212,Washington Football Team,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+Wes,Schweitzer,G,71,,2020,32013030-2d30-3033-3234-3332dbce1fe4,00-0032432,SCH821050,Washington Football Team,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+J.D.,McKissic,RB,41,STARTED,2020,32013030-2d30-3033-3236-30322d61541e,00-0032602,MCK692580,Washington Football Team,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+Peyton,Barber,RB,34,,2020,32013030-2d30-3033-3237-3431ad76d35e,00-0032741,BAR077733,Washington Football Team,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+Matt,Ioannidis,DT,98,,2020,32013030-2d30-3033-3237-38313b4640a5,00-0032781,IOA458455,Washington Football Team,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+Jared,Norris,LB,50,,2020,32013030-2d30-3033-3239-3938c591237d,00-0032998,NOR463803,Washington Football Team,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+Kendall,Fuller,CB,29,NOT_ACTIVE,2020,32013030-2d30-3033-3330-3834935c5b0e,00-0033084,FUL342614,Washington Football Team,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+Jonathan,Allen,DT,93,STARTED,2020,32013030-2d30-3033-3335-3233b32a7355,00-0033523,ALL512725,Washington Football Team,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+Ryan,Anderson,DE,52,,2020,32013030-2d30-3033-3335-3235d88bcc2d,00-0033525,AND384426,Washington Football Team,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+Jeremy,Sprinkle,TE,87,,2020,32013030-2d30-3033-3335-323861371214,00-0033528,SPR573222,Washington Football Team,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+Chase,Roullier,C,73,STARTED,2020,32013030-2d30-3033-3335-323971c51804,00-0033529,ROU143143,Washington Football Team,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+Fabian,Moreau,DB,25,,2020,32013030-2d30-3033-3339-3138c4bfa8d0,00-0033918,MOR095343,Washington Football Team,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+David,Sharpe,T,72,NOT_ACTIVE,2020,32013030-2d30-3033-3339-34368e937ca0,00-0033946,SHA433393,Washington Football Team,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+Danny,Johnson,CB,32,,2020,32013030-2d30-3033-3430-3731c2ebf0d1,00-0034071,JOH165289,Washington Football Team,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+Cam,Sims,WR,89,,2020,32013030-2d30-3033-3431-3034a561edc4,00-0034104,SIM667389,Washington Football Team,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+Marcus,Baugh,TE,85,,2020,32013030-2d30-3033-3431-363945c342cb,00-0034169,BAU227933,Washington Football Team,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+Da'Ron,Payne,DT,94,STARTED,2020,32013030-2d30-3033-3433-33333512bb16,00-0034333,PAY281222,Washington Football Team,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+Troy,Apke,S,30,STARTED,2020,32013030-2d30-3033-3433-33342c1977a5,00-0034334,APK428041,Washington Football Team,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+Shaun Dion,Hamilton,LB,51,STARTED,2020,32013030-2d30-3033-3433-3336ef84cb7f,00-0034336,HAM345530,Washington Football Team,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+Greg,Stroman,CB,37,,2020,32013030-2d30-3033-3433-3337dbd14257,00-0034337,STR594753,Washington Football Team,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+Tim,Settle,DT,97,,2020,32013030-2d30-3033-3433-39379f390444,00-0034397,SET509598,Washington Football Team,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+Kyle,Allen,QB,08,,2020,32013030-2d30-3033-3435-37371bc48d7c,00-0034577,ALL543234,Washington Football Team,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+Geron,Christian,T,74,STARTED,2020,32013030-2d30-3033-3438-3137496f8400,00-0034817,CHR356698,Washington Football Team,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+Steven,Sims,WR,15,STARTED,2020,32013030-2d30-3033-3439-3238ba773937,00-0034928,SIM809106,Washington Football Team,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+Dwayne,Haskins,QB,07,STARTED,2020,32013030-2d30-3033-3532-33323372c856,00-0035232,HAS285847,Washington Football Team,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+Bryce,Love,RB,35,NOT_ACTIVE,2020,32013030-2d30-3033-3532-35369617d18c,00-0035256,LOV044766,Washington Football Team,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+Wes,Martin,G,67,STARTED,2020,32013030-2d30-3033-3532-36332281e496,00-0035263,MAR763142,Washington Football Team,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+Cole,Holcomb,LB,55,NOT_ACTIVE,2020,32013030-2d30-3033-3532-3836f1040620,00-0035286,HOL006318,Washington Football Team,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+Jimmy,Moreland,S,20,,2020,32013030-2d30-3033-3533-303727eca112,00-0035307,MOR106996,Washington Football Team,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+Montez,Sweat,LB,90,STARTED,2020,32013030-2d30-3033-3536-3437da1ac0df,00-0035647,SWE034375,Washington Football Team,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+Terry,McLaurin,WR,17,STARTED,2020,32013030-2d30-3033-3536-353952c3dc5d,00-0035659,MCL278328,Washington Football Team,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+Isaiah,Wright,WR,83,NOT_ACTIVE,2020,32013030-2d30-3033-3631-34323e1ce817,00-0036142,WRI342946,Washington Football Team,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+Chase,Young,DE,99,STARTED,2020,32013030-2d30-3033-3633-3231e4884fa0,00-0036321,YOU146550,Washington Football Team,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+Antonio,Gibson,RB,24,,2020,32013030-2d30-3033-3633-3238d0f8bd54,00-0036328,GIB415285,Washington Football Team,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+Saahdiq,Charles,T,77,NOT_ACTIVE,2020,32013030-2d30-3033-3633-333494cc2001,00-0036334,CHA596597,Washington Football Team,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+Antonio,Gandy-Golden,WR,10,,2020,32013030-2d30-3033-3633-343088d8672b,00-0036340,GAN139028,Washington Football Team,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+Keith,Ismael,C,60,,2020,32013030-2d30-3033-3633-3432e90ab51e,00-0036342,ISM022913,Washington Football Team,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+Khaleke,Hudson,LB,47,,2020,32013030-2d30-3033-3633-34337fd78423,00-0036343,HUD448091,Washington Football Team,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+Kamren,Curl,S,31,,2020,32013030-2d30-3033-3633-3439100dd956,00-0036349,CUR156872,Washington Football Team,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
+James,Smith-Williams,DE,96,,2020,32013030-2d30-3033-3633-3531d2f647a5,00-0036351,SMI841542,Washington Football Team,football-team-at-cardinals-2020-reg-2,2020-09-20T20:05:00.000Z
